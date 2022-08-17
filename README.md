@@ -1,6 +1,7 @@
 ## Farmland sales under return and price uncertainty
 
 **Jana Plogmann, Oliver Mußhoff, Martin Odening, Matthias Ritter**
+
 Corresponding author: jana.maria.plogmann@agrar.hu-berlin.de 
 
 **Abstract:**
