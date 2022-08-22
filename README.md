@@ -9,8 +9,9 @@ This paper seeks to explain observed heterogeneity of liquidity in agricultural 
 
 The manuscript is currently under review.
 
+### Data
+The provided dta files include aggregated data based on datasets from the Committee of Land Valuation Experts in Lower Saxony (Oberer Gutachterausschuss für Grundstückswerte in Niedersachsen, OGA), the official statistics (Landesamt für Statistik), and the Food and Agriculture Organization of the United Nations (FAO) for Lower Saxony between 2005 and 2018.
+
 ### Code structure
 ...
 
-### Data
-...
