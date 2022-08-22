@@ -13,5 +13,4 @@ The manuscript is currently under review.
 The provided dta files include aggregated data based on datasets from the Committee of Land Valuation Experts in Lower Saxony (Oberer Gutachterausschuss für Grundstückswerte in Niedersachsen, OGA), the official statistics (Landesamt für Statistik), and the Food and Agriculture Organization of the United Nations (FAO) for Lower Saxony between 2005 and 2018.
 
 ### Code structure
-...
-
+The main file is LandSupplyCode.do. The script can be adapted to different land turnovers (1%, 0.5%, 1.5%) and loads the corresponding dataset (default: 1% turnover). It first shows the descriptive statistics (Table 1 in the paper). Then, it estimates the mixed proportional hazard model and the stratified Cox proportional hazards model and the concordance criterion Harrell's C (Table 2).
